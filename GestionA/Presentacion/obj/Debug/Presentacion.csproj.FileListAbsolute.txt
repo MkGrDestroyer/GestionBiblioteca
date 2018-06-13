@@ -1,0 +1,13 @@
+C:\Users\Miguel Calderon\Desktop\Proyectos\GestionBiblioteca\GestionA\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Miguel Calderon\Desktop\Proyectos\GestionBiblioteca\GestionA\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Miguel Calderon\Desktop\Proyectos\GestionBiblioteca\GestionA\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Miguel Calderon\Desktop\Proyectos\GestionBiblioteca\GestionA\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Miguel Calderon\Desktop\Proyectos\GestionBiblioteca\GestionA\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\Miguel Calderon\Desktop\Proyectos\GestionBiblioteca\GestionA\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Miguel Calderon\Desktop\Proyectos\GestionBiblioteca\GestionA\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Miguel Calderon\Desktop\Proyectos\GestionBiblioteca\GestionA\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Calderon\Desktop\Proyectos\GestionBiblioteca\GestionA\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Miguel Calderon\Desktop\Proyectos\GestionBiblioteca\GestionA\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Miguel Calderon\Desktop\Proyectos\GestionBiblioteca\GestionA\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Miguel Calderon\Desktop\Proyectos\GestionBiblioteca\GestionA\Presentacion\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Miguel Calderon\Desktop\Proyectos\GestionBiblioteca\GestionA\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
