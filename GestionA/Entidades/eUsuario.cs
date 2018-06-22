@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    class eUsuario
+    public class eUsuario
     {
+        public int idusuario { get; set; }
+        public string nombre { get; set; }
+        public string apellido { get; set; }
+        public string tipodeusuario { get; set; }
+        public string u_usuario { get; set; }
+        public string u_password { get; set; }
+        public override string ToString()
+        {
+            return nombre + " " + apellido;
+        }
     }
 }

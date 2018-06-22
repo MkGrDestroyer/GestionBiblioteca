@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    class Registro
+    public class eRegistro
     {
+        public int idregistro { get; set; }
+        public DateTime fecha { get; set; }
+        public eUsuario usuario { get; set; }
     }
 }
