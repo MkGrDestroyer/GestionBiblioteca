@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Database.cs" />
     <Compile Include="dMaterial.cs" />
+    <Compile Include="dRegistro.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

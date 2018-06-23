@@ -9,7 +9,7 @@ namespace Entidades
     public class eRegistro
     {
         public int idregistro { get; set; }
-        public DateTime fecha { get; set; }
+        public string fecha { get; set; }
         public eUsuario usuario { get; set; }
     }
 }
